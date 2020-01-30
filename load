@@ -1,0 +1,2 @@
+load data local infile './addfile'
+	into table people;
